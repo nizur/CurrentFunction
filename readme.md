@@ -6,4 +6,4 @@ CurrentFunction is a simple Sublime Text 2 plugin that displays the name of the 
 Source-code
 ------------------
 
-https://github.com/SublimeText/BufferScroll
+https://github.com/nizur/CurrentFunction
